@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_crypto_logic">Welcome to Crypto-Logic</string>
+    <string name="you_have_5_guesses_to_decypher_the_mystery_scrambled_word">You have 5 guesses to decypher the mystery scrambled word</string>
+    <string name="crypto_word">Crypto -Word</string>
+    <string name="restart">RESTART</string>
+</resources>
